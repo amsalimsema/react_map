@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "caption": "Web Styling",
+    "icon": "images/logo192.png",
+    "color": "blue",
+    "isVisible": true,
+    "likedBy": ["User N", "User E", "User J"],
+    "details": [
+      {
+        "width": "150px",
+        "height": "150px",
+        "type": "Brand logo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "caption": "Web Styling",
+    "icon": "images/logo192.png",
+    "color": "green",
+    "isVisible": true,
+    "likedBy": ["User N", "User E", "User J"],
+    "details": [
+      {
+        "width": "150px",
+        "height": "150px",
+        "type": "Brand logo"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "caption": "Web Styling",
+    "icon": "images/logo192.png",
+    "color": "red",
+    "isVisible": true,
+    "likedBy": ["User N", "User E", "User J"],
+    "details": [
+      {
+        "width": "150px",
+        "height": "150px",
+        "type": "Brand logo"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "caption": "Web Styling",
+    "icon": "images/logo192.png",
+    "color": "brown",
+    "isVisible": true,
+    "likedBy": ["User N", "User E", "User J"],
+    "details": [
+      {
+        "width": "150px",
+        "height": "150px",
+        "type": "Brand logo"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "caption": "Web Styling",
+    "icon": "images/logo192.png",
+    "color": "pink",
+    "isVisible": true,
+    "likedBy": ["User N", "User E", "User J"],
+    "details": [
+      {
+        "width": "150px",
+        "height": "150px",
+        "type": "Brand logo"
+      }
+    ]
+  }
+]

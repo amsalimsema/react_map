@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Web Styling",
+    "content": "content goes here 1 .....",
+    "img": "https://c.ndtvimg.com/2021-08/loudr2go_aloo-poha_625x300_05_August_21.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+    "tech": [
+      {
+        "name": "Javascript"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Web Styling",
+    "content": "content goes here 2.....",
+    "img": "https://c.ndtvimg.com/2021-08/loudr2go_aloo-poha_625x300_05_August_21.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+    "tech": [
+      {
+        "name": "ReactJs"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Web SCRAPPING",
+    "content": "content goes here 3.....",
+    "img": "https://c.ndtvimg.com/2021-08/loudr2go_aloo-poha_625x300_05_August_21.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+
+    "tech": [
+      {
+        "name": "NextJs"
+      }
+    ]
+  }
+]
